@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Fulbright scholar and a graduate student currently p
 ----
 
 ### Connect with me!
-- [Email](mailto:erikagarzaelorduy@gmail.com)
+- [Email](mailto:asadtariq1999@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/asad-tariq-1999atd/)
 
 <!--
